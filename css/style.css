@@ -61,6 +61,11 @@ body {
     background-color: var(--clr-white);
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
     padding: var(--main-padding);
+    border-radius: 2rem;
+    -webkit-border-radius: 2rem;
+    -moz-border-radius: 2rem;
+    -ms-border-radius: 2rem;
+    -o-border-radius: 2rem;
 }
 @media only screen and (min-width:768px){
     .container {
